@@ -30,3 +30,5 @@ Create a pages with product card using `flexbox`, `BEM` and `SCSS` based on [thi
 - [ ] SCSS Variables are used for main values and placed in a **separate file**
 - [ ] all `stars--N` modifiers work as expected (Highlight first `N` stars)
 - [ ] Code follows all the [Code Style Rules ❗️](https://mate-academy.github.io/layout_task-guideline/html-css-code-style-rules)
+
+е
